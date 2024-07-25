@@ -1,0 +1,21 @@
+
+@media screen and (max-width: 599px) {
+    body{
+        background-color: purple;
+    }   
+}
+
+@media (min-width: 400px) {
+    body {
+        background-color: maroon;
+    }
+    
+}
+
+
+@media (min-width: 900px) {
+    body {
+        background-color: orangered;
+    }
+    
+}
